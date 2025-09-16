@@ -585,9 +585,9 @@
     - **Rendre** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2025-2026/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} et **rendre** votre notebook jupyter sur [Capytale n°b588-3945902](https://capytale2.ac-paris.fr/web/c/b588-3945902){target=_blank} ;
     - **Se préparer** pour une évaluation écrite le 17/10 ;
 
-
+-->
 ***
-## Les 17 et 20/09
+## Du 17/09
 
 === "CONTENU DE SÉANCE"
 
@@ -598,14 +598,10 @@
     
 === "TRAVAIL À FAIRE"
 
-    - **Finir** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2025-2026/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} et **rendre** votre notebook jupyter sur [Capytale n°b588-3945902](https://capytale2.ac-paris.fr/web/c/b588-3945902){target=_blank} ;
-
-     <!-- - **Faire** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2025-2026/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} 
+    - **Faire** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2025-2026/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI_2025-2026/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){ .md-button .md-button--primary } 
-    [Capytale n°b588-3945902](https://capytale2.ac-paris.fr/web/c/b588-3945902){target=_blank .md-button .md-button--primary} -->
+    [Capytale n°b588-3945902](https://capytale2.ac-paris.fr/web/c/b588-3945902){target=_blank .md-button .md-button--primary}
 
-
--->
 ***
 
 ## Du 03/09
