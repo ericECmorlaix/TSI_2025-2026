@@ -16,17 +16,17 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
 
 ##### Schéma
 
-<!-- ![](./Schema-vehicule-plat.jpg){.center width=50%} -->
+![](./Schema-vehicule-plat.jpg){.center width=50%}
 
-![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%}
+<!-- ![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%} -->
 
 
 ##### BAME (Bilan des Actions Mécaniques Extérieures)
 
 
-<!-- ![](./BAME-vehicule-plat.jpg){.center width=50%} -->
+![](./BAME-vehicule-plat.jpg){.center width=50%}
 
-![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%}
+<!-- ![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%} -->
 
 ??? abstract "Principe fondamental de la statique"
 
@@ -37,15 +37,15 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
 
 ??? tip "Calcul du moment d'une force"
 
-    <!-- ![](Calcul_moment.jpg){.center width=50%} -->
+    ![](Calcul_moment.jpg){.center width=50%}
 
-    ![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%}
+    <!-- ![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%} -->
 
 ##### Résolution
 
-<!-- ![](./Resolution-vehicule-plat.jpg){.center width=90%} -->
+![](./Resolution-vehicule-plat.jpg){.center width=90%}
 
-![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%}
+<!-- ![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%} -->
 
 ??? example "Application"
 
@@ -64,7 +64,7 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
 
     ...
  
-<!--
+
 ### Sur un sol en pente 
 
 #### Modèle d'étude
@@ -73,16 +73,16 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
 
 <!-- ![](Schema-vehicule-pente.jpg){.center width=60%} -->
 
-<!-- ![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%} -->
+![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%}
 
 
-<!-- ##### BAME (Bilan des Actions Mécaniques Extérieures) -->
+##### BAME (Bilan des Actions Mécaniques Extérieures)
 
 <!-- ![](BAME-vehicule-pente.jpg){.center width=60%} -->
 
-<!-- ![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%} -->
+![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%}
 
-<!-- ??? abstract "Principe fondamental de la statique"
+??? abstract "Principe fondamental de la statique"
 
     Pour un solide en équilibre, la somme des Actions Mécaniques Extérieures (AME) au solide (S) est nulle :
 
@@ -111,14 +111,14 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
     > Pour aller plus loin en [Tribologie](https://www.futura-sciences.com/sciences/dossiers/physique-matiere-materiaux-fait-monde-996/page/4/){target=_blank}
 
 ??? tip "Pourcentage d'une pente = tangente de l'angle"
-
+    
     ![](pourcentage_pente.jpg){.center width=50%}
     
-##### Résolution -->
+##### Résolution
 
 <!-- ![](./Resolution-vehicule-pente.jpg){.center width=90%} -->
 
-<!-- ![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%}
+![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%}
 
 ??? example "Application"
 
@@ -130,5 +130,5 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
     
     ![](Buggy_Black_Pirate/Buggy_T2M_Black_Pirate_pente.png){.center width=50%}
     
-    ![](Buggy_Black_Pirate/Buggy_T2M_Black_Pirate_pente.jpg){.center width=50%} -->
+    ![](Buggy_Black_Pirate/Buggy_T2M_Black_Pirate_pente.jpg){.center width=50%}
 

@@ -512,13 +512,13 @@
 
 === "CONTENU DE SÉANCE"
 
-    - [Modélisation de l'équilibre d'un véhicule à roues sur une pente](./AM/statique_vehicule.md){target=_blank} ;
+    
     - **Répondre** aux questions 14 à 19 du sujet [Camper Trolley](./SU/Camper_Sujet-2012.pdf) ;
 
     
 === "TRAVAIL À FAIRE"
 
-    - [Application au buggy T2M Black Pirate sur une pente](./AM/statique_vehicule.md){target=_blank} ;
+    
  
 ***
 ## Du 05/11
@@ -568,24 +568,27 @@
 
     - **Finir** en DM l'étude du [Robot Camper Trolley](./SU/Revisions_TSI-Camper_trolley.pdf) ;
 
-    - **Poursuivre** la programmation des objets connectés avec la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} ;
-    
+    - **Poursuivre** la programmation des objets connectés avec la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} ;*
+
+    - **Revoir** les études de [cinématique, de transmission de puissance et d'énergétique du Cozmo](./SU/CC_cozmo_bis.pdf){target=_blank}
+     ainsi que son étude [statique](./AM/AM_Cozmo.pdf){target=_blank} ;
+
+     - **Se préparer** pour une évaluation écrite le 17/10 ; 
+-->    
 ***
-## Les 11 et 15/10
+## Le 24/09
 
 === "CONTENU DE SÉANCE"
 
     - Correction [de l'équilibre du buggy T2M Black Pirate sur sol horizontal](./AM/statique_vehicule.md){target=_blank} ;
-    - **Revoir** les études de [cinématique, de transmission de puissance et d'énergétique du Cozmo](./SU/CC_cozmo_bis.pdf){target=_blank}
-     ainsi que son étude [statique](./AM/AM_Cozmo.pdf){target=_blank} ; 
+    - [Modélisation de l'équilibre d'un véhicule à roues sur une pente](./AM/statique_vehicule.md){target=_blank} ;
+    - [Application au buggy T2M Black Pirate sur une pente](./AM/statique_vehicule.md){target=_blank} ;  
 
     
 === "TRAVAIL À FAIRE"
 
-    - **Rendre** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2025-2026/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} et **rendre** votre notebook jupyter sur [Capytale n°b588-3945902](https://capytale2.ac-paris.fr/web/c/b588-3945902){target=_blank} ;
-    - **Se préparer** pour une évaluation écrite le 17/10 ;
+    - **Finir** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2025-2026/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} et **rendre** votre notebook jupyter sur [Capytale n°b588-3945902](https://capytale2.ac-paris.fr/web/c/b588-3945902){target=_blank} ;
 
--->
 ***
 ## Du 17/09
 
