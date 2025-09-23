@@ -95,7 +95,8 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
 
     #### Modèle d'une caisse
 
-    ![](./Frottement.jpg){.center width=60%}
+    ![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%}
+<!-- ![](./Frottement.jpg){.center width=60%} -->
 
     !!! note "Le coefficient de frottement :"
 
@@ -130,5 +131,5 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
     
     ![](Buggy_Black_Pirate/Buggy_T2M_Black_Pirate_pente.png){.center width=50%}
     
-    ![](Buggy_Black_Pirate/Buggy_T2M_Black_Pirate_pente.jpg){.center width=50%}
+    <!-- ![](Buggy_Black_Pirate/Buggy_T2M_Black_Pirate_pente.jpg){.center width=50%} -->
 
