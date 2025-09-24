@@ -57,12 +57,10 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
     Sachant que la masse totale du buggy est $m = 3,60 kg$, déterminer la répartition de la charge initiale sur les roues arrière et avant lorsque le véhicule est à l’arrêt.
     
     ![](Buggy_Black_Pirate/Buggy_T2M_Black_Pirate.png){.center width=50%}
+
+    ![](Buggy_Black_Pirate/Correction_Statique_Buggy_Horizontal.png){.center width=80%}
     
-    ...
-
-    ...
-
-    ...
+    ![Correction_Statique_Buggy_Horizontal.pdf](./Buggy_Black_Pirate/Correction_Statique_Buggy_Horizontal.pdf)
  
 
 ### Sur un sol en pente 
@@ -71,16 +69,16 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
 
 ##### Schéma
 
-<!-- ![](Schema-vehicule-pente.jpg){.center width=60%} -->
+![](Schema-vehicule-pente.jpg){.center width=60%}
 
-![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%}
+<!-- ![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%} -->
 
 
 ##### BAME (Bilan des Actions Mécaniques Extérieures)
 
-<!-- ![](BAME-vehicule-pente.jpg){.center width=60%} -->
+![](BAME-vehicule-pente.jpg){.center width=60%}
 
-![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%}
+<!-- ![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%} -->
 
 ??? abstract "Principe fondamental de la statique"
 
@@ -95,8 +93,7 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
 
     #### Modèle d'une caisse
 
-    ![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%}
-<!-- ![](./Frottement.jpg){.center width=60%} -->
+    ![](./Frottement.jpg){.center width=60%}
 
     !!! note "Le coefficient de frottement :"
 
@@ -117,7 +114,7 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
     
 ##### Résolution
 
-<!-- ![](./Resolution-vehicule-pente.jpg){.center width=90%} -->
+![](./Resolution-vehicule-pente.jpg){.center width=90%}
 
 ![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%}
 
@@ -131,5 +128,5 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
     
     ![](Buggy_Black_Pirate/Buggy_T2M_Black_Pirate_pente.png){.center width=50%}
     
-    <!-- ![](Buggy_Black_Pirate/Buggy_T2M_Black_Pirate_pente.jpg){.center width=50%} -->
+    ![](Buggy_Black_Pirate/Buggy_T2M_Black_Pirate_pente.jpg){.center width=50%}
 
