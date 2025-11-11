@@ -447,8 +447,6 @@
 
     - **Poursuivre** l'étude de la [Lyre Imove 5S](./SE/LyreImove5S.pdf){target="_blank"} ;
 
- 
-
 ***
 
 ## Le 16/01
@@ -485,40 +483,11 @@
     
     - [Etudes du comportement dynamique d'un solide en rotation](./AM/dynamique_rotation.md){target=_blank} ;
     - Equation complémentaire pour les [Etudes du comportement dynamique d'un solide en translation](./AM/dynamique_translation.md){target=_blank} ;
-    
 
 === "TRAVAIL À FAIRE"
 
     - **Se préparer** pour une évaluation sur le comportement dynamique d'un solide ;
     - **Finir** [l'étude du comportement dynamique d'un solide en rotation appliquée au Treuil](./AM/dynamique_rotation.md){target=_blank} ;
-
-***
-
-## Du 13/12
-
-=== "CONTENU DE SÉANCE"
-
-    - [Etudes du comportement dynamique d'un solide en translation](./AM/dynamique_translation.md){target=_blank} ;
-    
-
-=== "TRAVAIL À FAIRE"
-
-    - **Finir** [l'étude du comportement dynamique d'un solide en translation appliquée au Buggy](./AM/dynamique_translation.md){target=_blank} ;
-    - **Répondre** aux questions 14 à 19 du sujet [Camper Trolley](./SU/Camper_Sujet-2012.pdf) ;
-    - **Répondre** aux questions 1 à 10 du sujet [Efoil](./SU/Efoil_Sujet-2022.pdf) ;
-
-***
-## Du 10/12
-
-=== "CONTENU DE SÉANCE"
-
-    
-    - **Répondre** aux questions 14 à 19 du sujet [Camper Trolley](./SU/Camper_Sujet-2012.pdf) ;
-
-    
-=== "TRAVAIL À FAIRE"
-
-    
  
 ***
 ## Du 05/11
@@ -546,14 +515,11 @@
     - **Finir** la programmation des objets connectés avec la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} ;
 
     - **Revoir** la partie traitement de l'information du [Cozmo](./SU/CC_cozmo_bis.pdf){target=_blank} ;
-    
 
 ***
-## Les 17 et 18/10
 
 === "CONTENU DE SÉANCE"
 
-    - Evaluation [Robot Camper Trolley](./SU/Revisions_TSI-Camper_trolley.pdf) ;
     - **Reprendre** la programmation des objets connectés avec la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} :
         
         - **Revoir** les [Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} et [Parcours_2.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_2.ipynb){target=_blank} [Capytale n° 4ba8-4360814](https://capytale2.ac-paris.fr/web/c/4ba8-4360814){target=_blank .md-button .md-button--primary } [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_2.ipynb){ .md-button .md-button--primary} ;
@@ -564,19 +530,51 @@
     
 === "TRAVAIL À FAIRE"
 
-    - ==DERNIER RAPPEL== **Rendre** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2025-2026/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} et **rendre** votre notebook jupyter sur [Capytale n°b588-3945902](https://capytale2.ac-paris.fr/web/c/b588-3945902){target=_blank} ;
+    
 
     - **Finir** en DM l'étude du [Robot Camper Trolley](./SU/Revisions_TSI-Camper_trolley.pdf) ;
 
     - **Poursuivre** la programmation des objets connectés avec la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} ;*
 
+
+
+- **Répondre** aux questions 14 à 19 du sujet [Camper Trolley](./SU/Camper_Sujet-2012.pdf) ;
+
+- **Répondre** aux questions 1 à 10 du sujet [Efoil](./SU/Efoil_Sujet-2022.pdf) ;
+-->   
+
+***
+
+## Du 12/11
+
+=== "CONTENU DE SÉANCE"
+
+    - [Etudes du comportement dynamique d'un solide en translation](./AM/dynamique_translation.md){target=_blank} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - ==DERNIER RAPPEL== **Rendre** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2025-2026/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} et **rendre** votre notebook jupyter sur [Capytale n°b588-3945902](https://capytale2.ac-paris.fr/web/c/b588-3945902){target=_blank} ;
+    
+    - **Finir** [l'étude du comportement dynamique d'un solide en translation appliquée au Buggy](./AM/dynamique_translation.md){target=_blank} ;
+    
     - **Revoir** les études de [cinématique, de transmission de puissance et d'énergétique du Cozmo](./SU/CC_cozmo_bis.pdf){target=_blank}
      ainsi que son étude [statique](./AM/AM_Cozmo.pdf){target=_blank} ;
 
-     - **Se préparer** pour une évaluation écrite le 17/10 ; 
--->    
 ***
-## Le 24/09
+## Du 16/10
+
+=== "CONTENU DE SÉANCE"
+    
+    - [Evaluation en statique](./SU/Eval_Statique.pdf) ;
+    
+=== "TRAVAIL À FAIRE"
+
+    - **Faire** une auto-correction détaillée de l'[évaluation en statique](./SU/Eval_Statique.pdf) ;
+
+    - **Rendre** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2025-2026/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} et **rendre** votre notebook jupyter sur [Capytale n°b588-3945902](https://capytale2.ac-paris.fr/web/c/b588-3945902){target=_blank} ;
+
+***
+## Du 24/09
 
 === "CONTENU DE SÉANCE"
 
