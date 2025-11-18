@@ -135,34 +135,34 @@
     - Discuter si les phénomènes de transfert de charge et de cabrage sont bénéfiques à la propulsion et/ou à la traction d’un véhicule automobile…
 
 #### BAME sur (S) = le buggy
-<!-- 
+
 - $\overrightarrow{P} = - m \times g \cdot \overrightarrow{y} $
 
 - $\overrightarrow{K_{sol \to S}} = -\|\overrightarrow{K_{sol \to S}}\| \times \sin{\alpha} \cdot \overrightarrow{x} + \|\overrightarrow{K_{sol \to S}}\| \times \cos{\alpha} \cdot \overrightarrow{y} $
 
 - $\overrightarrow{L_{sol \to S}} = -\|\overrightarrow{L_{sol \to S}}\| \times \sin{\alpha} \cdot \overrightarrow{x} + \|\overrightarrow{L_{sol \to S}}\| \times \cos{\alpha} \cdot \overrightarrow{y} $
--->
+<!-- 
 ...
 
 ...
 
 ...
 
-...
+... -->
 
 #### Résultante dynamique : $\sum\overrightarrow{F_{ext \to S}} = m \cdot \overrightarrow{a_G}$
-<!-- 
+
 - en projection sur $\overrightarrow{x}$ : $-\|\overrightarrow{K_{sol \to S}}\| \times \sin{\alpha} -\|\overrightarrow{L_{sol \to S}}\| \times \sin{\alpha} = - m \times a_G$ **(1)**
 
 - en projection sur $\overrightarrow{y}$ : $\|\overrightarrow{K_{sol \to S}}\| \times \cos{\alpha} +\|\overrightarrow{L_{sol \to S}}\| \times \cos{\alpha} = m \times g$ **(2)**
- -->
-...
+
+<!-- ...
 
 ...
 
 ...
 
-...
+... -->
 
 
 #### Moment dynamique résultant en G : $\sum\overrightarrow{M_G(\overrightarrow{F_{ext \to S}})} = \overrightarrow{0}$
@@ -241,21 +241,21 @@ $\|\overrightarrow{L_{sol \to S}}\| =  {145 \times m \times g \over 335} = 15,27
 
 ***
 #### Déterminer le coefficient d’adhérence nécessaire pour transmettre une telle accélération
-<!-- 
+
 
 **(1)** => $\sin{\alpha} = {m \times a_G \over {\|\overrightarrow{K_{sol \to S}}\| + \|\overrightarrow{L_{sol \to S}}\|}}$
 
 **(2)** => $\cos{\alpha} = {m \times g \over {\|\overrightarrow{K_{sol \to S}}\| + \|\overrightarrow{L_{sol \to S}}\|}}$
 
 donc $ \tan{\alpha} = {a_G \over g} = {{1,5 \times g} \over g} $ doit être le coefficient d'adhérence minimale (ce qui implique l'utilisation de "crampons") 
- -->
-...
+
+<!-- ...
 
 ...
 
 ...
 
-...
+... -->
 
 
 ***

@@ -560,6 +560,10 @@
     - **Revoir** les études de [cinématique, de transmission de puissance et d'énergétique du Cozmo](./SU/CC_cozmo_bis.pdf){target=_blank}
      ainsi que son étude [statique](./AM/AM_Cozmo.pdf){target=_blank} ;
 
+    - **Répondre** aux questions 1, 2, 3, 8, 9 du sujet [EFOIL](./SU/Efoil_Sujet-2022.pdf){target=_blank} ;
+
+    
+
 ***
 ## Du 16/10
 
