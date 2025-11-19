@@ -167,7 +167,7 @@
 
 #### Moment dynamique résultant en G : $\sum\overrightarrow{M_G(\overrightarrow{F_{ext \to S}})} = \overrightarrow{0}$
 
-- en projection sur $\overrightarrow{y}$ : $ - x_{LG} \times \|\overrightarrow{L_{sol \to S}}\| \times \cos{\alpha} - y_{LG} \times \|\overrightarrow{L_{sol \to S}}\| \times \sin{\alpha} + x_{GK} \times \|\overrightarrow{K_{sol \to S}}\| \times \cos{\alpha} - y_{KG} \times \|\overrightarrow{K_{sol \to S}}\| \times \sin{\alpha} = 0$ **(3)**
+- en projection sur $\overrightarrow{z}$ : $ - x_{LG} \times \|\overrightarrow{L_{sol \to S}}\| \times \cos{\alpha} - y_{LG} \times \|\overrightarrow{L_{sol \to S}}\| \times \sin{\alpha} + x_{GK} \times \|\overrightarrow{K_{sol \to S}}\| \times \cos{\alpha} - y_{KG} \times \|\overrightarrow{K_{sol \to S}}\| \times \sin{\alpha} = 0$ **(3)**
 <!-- 
 ...
 
