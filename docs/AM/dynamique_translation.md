@@ -166,20 +166,20 @@
 
 
 #### Moment dynamique résultant en G : $\sum\overrightarrow{M_G(\overrightarrow{F_{ext \to S}})} = \overrightarrow{0}$
-<!-- 
+
 - en projection sur $\overrightarrow{y}$ : $ - x_{LG} \times \|\overrightarrow{L_{sol \to S}}\| \times \cos{\alpha} - y_{LG} \times \|\overrightarrow{L_{sol \to S}}\| \times \sin{\alpha} + x_{GK} \times \|\overrightarrow{K_{sol \to S}}\| \times \cos{\alpha} - y_{KG} \times \|\overrightarrow{K_{sol \to S}}\| \times \sin{\alpha} = 0$ **(3)**
- -->
+<!-- 
 ...
 
 ...
 
 ...
 
-...
+... -->
 
 
 #### Déterminer la répartition de la charge sur les roues arrière et avant lorsque le véhicule accélère ;
-<!-- 
+
 **(1)** => $\|\overrightarrow{L_{sol \to S}}\| \times \sin{\alpha} = m \times a_G -\|\overrightarrow{K_{sol \to S}}\| \times \sin{\alpha} $
 
 **(2)** => $\|\overrightarrow{L_{sol \to S}}\| \times \cos{\alpha} = m \times g - \|\overrightarrow{K_{sol \to S}}\| \times \cos{\alpha} $
@@ -203,21 +203,21 @@ Pour $a_G = 1,5 \times g$, on obtient la répartition de la charge en calculant 
 $\overrightarrow{K_{sol \to S}} \cdot \overrightarrow{y} =  {3,6 \times (190 \times g + 45 \times 1,5 \times g) \over 335} = {3,6 \times 9,81 \times 257,5 \over 335} = 27,15 \;\mathrm{N}$
 
 $\overrightarrow{L_{sol \to S}} \cdot \overrightarrow{y} =  {3,6 \times (145 \times g - 45 \times 1,5 \times g) \over 335} = {3,6 \times 9,81 \times 77,5 \over 335} = 8,17 \;\mathrm{N}$
- -->
+<!-- 
 ...
 
 ...
 
 ...
 
-...
+... -->
 
 
 ***
 
 #### Qu’en est-il lorsque le véhicule est à vitesse constante ?
 
-<!-- 
+
 Si $a_G = 0$ alors
 
 (1) => $-\|\overrightarrow{K_{sol \to S}}\| \times \sin{\alpha} -\|\overrightarrow{L_{sol \to S}}\| \times \sin{\alpha} = 0$
@@ -229,7 +229,7 @@ On retrouve la même répartition que lorsque le véhicule est à l'arrêt
 $\|\overrightarrow{K_{sol \to S}}\| =  {190 \times m \times g \over 335} = {190 \times 3,6 \times 9,81 \over 335} = 20,03 \;\mathrm{N}$
 
 $\|\overrightarrow{L_{sol \to S}}\| =  {145 \times m \times g \over 335} = 15,27 \;\mathrm{N} $
- -->
+<!-- 
 ...
 
 ...
@@ -237,6 +237,7 @@ $\|\overrightarrow{L_{sol \to S}}\| =  {145 \times m \times g \over 335} = 15,27
 ...
 
 ...
+-->
 
 
 ***
@@ -260,7 +261,7 @@ donc $ \tan{\alpha} = {a_G \over g} = {{1,5 \times g} \over g} $ doit être le c
 
 ***
 #### A partir de quelle accélération risque-t-on de cabrer ?
-<!-- 
+
 On cabre dès que $\|\overrightarrow{L_{sol \to S}}\| = 0$
 
 alors **(3)** => $145 \times \|\overrightarrow{K_{sol \to S}}\| \times \cos{\alpha} - 45 \times \|\overrightarrow{K_{sol \to S}}\| \times \sin{\alpha} = 0$
@@ -272,19 +273,22 @@ $145- 45 \times \tan{\alpha} = 0$
 $\tan{\alpha} = {145 \over 45} = 3,22$
 
 donc on risque de cabrer à partir de $a_G > 3,22 \times g$
- -->
+
+<!--
 ...
 
 ...
 
 ...
 
-...
+... 
+
+-->
 
 
 ***
 #### Discuter si les phénomènes de transfert de charge et de cabrage sont bénéfiques à la propulsion et/ou à la traction d’un véhicule automobile...
-<!-- 
+
 $\overrightarrow{L_{sol \to S}} \cdot \overrightarrow{y} = =  {145 \times m \times g - 45 \times m \times a_G \over 335}$
 
 En accélérant, on enlève ${45 \times m \times a_G \over 335} = 7,12 \;\mathrm{N}$ de charge de l'avant que l'on rajoute à l'arrière
@@ -292,15 +296,15 @@ En accélérant, on enlève ${45 \times m \times a_G \over 335} = 7,12 \;\mathrm
 $\overrightarrow{K_{sol \to S}} \cdot \overrightarrow{y} = {190 \times m \times g + 45 \times m \times a_G \over 335}$
 
 Donc une propulsion est plus favorable qu'une traction en phase d'accélération car la force de pression étant plus grande à l'arrière, pour un coeficient d'adhérence donné, la force de propulsion sera également plus grande proportionnelement tel que $\|\overrightarrow{T}\| = f \times \|\overrightarrow{N}\|$.
+<!-- 
+...
+
+...
+
+...
+
+...
  -->
-...
-
-...
-
-...
-
-...
-
 
 
 
