@@ -516,7 +516,13 @@
 
     - **Revoir** la partie traitement de l'information du [Cozmo](./SU/CC_cozmo_bis.pdf){target=_blank} ;
 
-***
+
+
+- **Répondre** aux questions 14 à 19 du sujet [Camper Trolley](./SU/Camper_Sujet-2012.pdf) ;
+
+- **Répondre** aux questions 1 à 10 du sujet [Efoil](./SU/Efoil_Sujet-2022.pdf) ;
+-->   
+## Du 25/11
 
 === "CONTENU DE SÉANCE"
 
@@ -527,21 +533,13 @@
 
         > ==**notez** vos codes personnels pour chaque parcours pour y retourner d'une fois sur l'autre et **conservez** progressivement une trace de vos scripts sur Capytale et dans votre classeur numérique.==
 
-    
+
 === "TRAVAIL À FAIRE"
 
-    
+    - **Revoir** la partie traitement de l'information du [Cozmo](./SU/CC_cozmo_bis.pdf){target=_blank} ;    
 
-    - **Finir** en DM l'étude du [Robot Camper Trolley](./SU/Revisions_TSI-Camper_trolley.pdf) ;
+    - **Poursuivre** la programmation des objets connectés avec la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} ;
 
-    - **Poursuivre** la programmation des objets connectés avec la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} ;*
-
-
-
-- **Répondre** aux questions 14 à 19 du sujet [Camper Trolley](./SU/Camper_Sujet-2012.pdf) ;
-
-- **Répondre** aux questions 1 à 10 du sujet [Efoil](./SU/Efoil_Sujet-2022.pdf) ;
--->   
 
 ***
 
