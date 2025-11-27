@@ -501,7 +501,7 @@
     - **Finir** la programmation des objets connectés avec la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} ;
 
  
- (Cf [Correction des exercices 1 et 2](./CI/Correction_Capteurs_Ex1&2.md){target="_blank"});
+ 
 
 
 - **Répondre** aux questions 14 à 19 du sujet [Camper Trolley](./SU/Camper_Sujet-2012.pdf) ;
@@ -521,7 +521,7 @@
 
         > ==**notez** vos codes personnels pour chaque parcours pour y retourner d'une fois sur l'autre et **conservez** progressivement une trace de vos scripts sur Capytale et dans votre classeur numérique.==
 
-        - **Lire** le cours et faire les exercices concernant [Les capteurs et la chaîne d'acquisition](./CI/Acquisition_Capteurs-Cours-Exercices.pdf){target="_blank"} ressource [Capteur_US-HC-SR04.pdf](./CI/Capteur_US-HC-SR04.pdf){target="_blank"}
+        - **Lire** le cours et faire les exercices concernant [Les capteurs et la chaîne d'acquisition](./CI/Acquisition_Capteurs-Cours-Exercices.pdf){target="_blank"} ressource [Capteur_US-HC-SR04.pdf](./CI/Capteur_US-HC-SR04.pdf){target="_blank"} (Cf [Correction des exercices 1 et 2](./CI/Correction_Capteurs_Ex1&2.md){target="_blank"});
 
 === "TRAVAIL À FAIRE"
 
