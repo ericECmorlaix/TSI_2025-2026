@@ -43,8 +43,8 @@ On obtient les valeurs numériques N image de la tension de sortie :
 
 | $R_{AB}$               | $100\;\mathrm{\Omega}$ | $4,5\;\mathrm{k\Omega}$ | $10\;\mathrm{k\Omega}$ |
 | :---: | :---: | :---: | :---: |
-| $N_{\mathrm{décimal}}$ | $1$                    | $461$                   | $1023$                 |
-| $N_{\mathrm{binaire}}$ | `00 0000 0001`         | `01 1100 1101`          | `11 1111 1111`         |
+| $N_{\mathrm{décimal}}$ | $10$                    | $461$                   | $1023$                 |
+| $N_{\mathrm{binaire}}$ | `00 0000 1010`         | `01 1100 1101`          | `11 1111 1111`         |
 
 ***
 
