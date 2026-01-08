@@ -381,9 +381,7 @@
 
 === "CONTENU DE SÉANCE" 
 
-    - **Faire** les activités du notebook [Modelisation_Chaine_De_Puissance-Le_Moteur_CC](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2025-2026/CP/Modelisation_Chaine_De_Puissance-Le_Moteur_CC.ipynb){target="_blank"}
-    [Capytale n° 5fec-5915085](https://capytale2.ac-paris.fr/web/c/5fec-5915085){target=_blank .md-button .md-button--primary }
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI_2025-2026/CP/Modelisation_Chaine_De_Puissance-Le_Moteur_CC.ipynb){ .md-button .md-button--primary}
+
     
 
 === "TRAVAIL À FAIRE"
@@ -404,13 +402,7 @@
     - ==**Rendre** vos travaux concernant la Lyre Imove 5S, les Moteurs à Courant Continu et les Codeurs de position==
 
 
-***
-## Du 05/02
 
-=== "CONTENU DE SÉANCE" 
-
-    - Moteurs à Courant Continu : **lire** le [cours](./CP/MCC-Cours.pdf){target=_blank} et **faire** les [exercices](./CP/MCC-exercices.pdf){target=_blank} ;
-    - Codeurs de position : **lire** le [cours](./CI/Codeur-Cours.pdf){target=_blank} et **faire** les [exercices](./CI/Codeur-exercices.pdf){target=_blank} (cf : [document ressource détection mécanique et électronique](./CI/Detection_mecanique_electronique.pdf){target=_blank}) ;
 
 === "TRAVAIL À FAIRE"
 
@@ -453,7 +445,7 @@
 
 === "CONTENU DE SÉANCE"
     
-    - **Analyser** les [courbes caractéristiques du moteur à courant continu "RS 775"](./SU/exercice_courbes_caracteristiques_mcc.pdf){target=_blank} ;
+    
     - **S'entrainer** pour le Bac Blanc avec le sujet du [RTT](./SU/RobotSurveillanceTousTerrains.pdf)
     
 
@@ -491,6 +483,23 @@
 
 -->
 
+## Du 08/01
+
+=== "CONTENU DE SÉANCE" 
+
+    - **Analyser** les [courbes caractéristiques du moteur à courant continu "RS 775"](./SU/exercice_courbes_caracteristiques_mcc.pdf){target=_blank} ;
+    - Moteurs à Courant Continu : **lire** le [cours](./CP/MCC-Cours.pdf){target=_blank} et **faire** les [exercices](./CP/MCC-exercices.pdf){target=_blank} ;
+    - Codeurs de position : **lire** le [cours](./CI/Codeur-Cours.pdf){target=_blank} et **faire** les [exercices](./CI/Codeur-exercices.pdf){target=_blank} (cf : [document ressource détection mécanique et électronique](./CI/Detection_mecanique_electronique.pdf){target=_blank}) ;
+    
+    - **Faire** les activités du notebook [Modelisation_Chaine_De_Puissance-Le_Moteur_CC](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2025-2026/CP/Modelisation_Chaine_De_Puissance-Le_Moteur_CC.ipynb){target="_blank"}
+    [Capytale n° 5fec-5915085](https://capytale2.ac-paris.fr/web/c/5fec-5915085){target=_blank .md-button .md-button--primary }
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI_2025-2026/CP/Modelisation_Chaine_De_Puissance-Le_Moteur_CC.ipynb){ .md-button .md-button--primary}
+
+=== "TRAVAIL À FAIRE"
+
+    - **Rendre** le [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) -> ==Remmettre un compte rendu au format MarkDown `.md` ou `.ipynb` ou `.pdf` en utilisant l'application [Typst](https://typst.app/){target="_blank"}== ;
+    - **Réviser** pour le Bac Blanc : [Cozmo](./SU/CC_cozmo_bis.pdf), [Camper](./SU/Camper_Sujet-2012.pdf), ...
+
 ***
 
 ## Du 10/12
@@ -507,8 +516,7 @@
 
      - **Finir** [l'étude du comportement dynamique d'un solide en rotation appliquée au Treuil](./AM/dynamique_rotation.md){target=_blank} ;
      - **Se préparer** pour une évaluation sur la chaine d'acquisition de l'information et le comportement dynamique d'un solide ;
-     - **Faire** le [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) -> ==Remmettre un compte rendu au format MarkDown `.md` ou `.ipynb` ou `.pdf` en utilisant l'application [Typst](https://typst.app/){target="_blank"}== ;
-    
+     - **Faire** le [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) -> ==Remmettre un compte rendu au format MarkDown `.md` ou `.ipynb` ou `.pdf` en utilisant l'application [Typst](https://typst.app/){target="_blank"}== ;  
  
 
 ***
