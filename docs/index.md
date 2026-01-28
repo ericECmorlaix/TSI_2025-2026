@@ -466,9 +466,7 @@
 
 ***
 
-    - **Revoir** la partie **"Comprendre"** du notebook [Network-TP1](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){ .md-button .md-button--primary } [Capytale e7c0-3876579](https://capytale2.ac-paris.fr/web/c/e7c0-3876579){target=_blank .md-button .md-button--primary } ;
-
-    - **Lire** le cours puis **faire** les exercices de synthèse sur les [réseaux informatiques avec le protocole de communication TCP/IP](./CR/FC_Reseaux_TCP-IP.pdf){target=_blank} et l'application au [Tri Postal](./CR/TriPostal.pdf){target=_blank} ;
+    
 
     
 
@@ -482,6 +480,19 @@
 - **Répondre** aux questions 1 à 10 du sujet [Efoil](./SU/Efoil_Sujet-2022.pdf) ;
 
 -->
+## Du 29/01
+
+=== "CONTENU DE SÉANCE" 
+
+    - **Revoir** la partie **"Comprendre"** du notebook [Network-TP1](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){ .md-button .md-button--primary } [Capytale e7c0-3876579](https://capytale2.ac-paris.fr/web/c/e7c0-3876579){target=_blank .md-button .md-button--primary } ;
+
+    - **Lire** le cours, **compléter** les exemples, puis **faire** les exercices sur les [réseaux informatiques avec le protocole de communication TCP/IP](./CR/FC_Reseaux_TCP-IP.pdf){target=_blank} et l'application au [Tri Postal](./CR/TriPostal.pdf){target=_blank} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Rendre** le [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) -> ==Remmettre un compte rendu au format MarkDown `.md` ou `.ipynb` ou `.pdf` en utilisant l'application [Typst](https://typst.app/){target="_blank"}== ;
+
+***
 
 ## Du 08/01
 
