@@ -484,7 +484,7 @@
 
 === "CONTENU DE SÉANCE" 
 
-    - **Revoir** la partie **"Comprendre"** du notebook [Network-TP1](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){ .md-button .md-button--primary } [Capytale e7c0-3876579](https://capytale2.ac-paris.fr/web/c/e7c0-3876579){target=_blank .md-button .md-button--primary } ;
+    - **Revoir** la partie **"Comprendre"** du notebook [Network-TP1](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){ .md-button .md-button--primary } [Capytale e30a-6969721](https://capytale2.ac-paris.fr/web/c/e30a-6969721){target=_blank .md-button .md-button--primary } ;
 
     - **Lire** le cours, **compléter** les exemples, puis **faire** les exercices sur les [réseaux informatiques avec le protocole de communication TCP/IP](./CR/FC_Reseaux_TCP-IP.pdf){target=_blank} et l'application au [Tri Postal](./CR/TriPostal.pdf){target=_blank} ;
 
