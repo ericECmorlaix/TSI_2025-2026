@@ -474,7 +474,7 @@
 
     - **Faire** le [TP-DMX512-Lyre_iMove_5S](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2025-2026/CR/TP-DMX512-Lyre_iMove_5S.ipynb){target="_blank"} 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI_2025-2026/CR/TP-DMX512-Lyre_iMove_5S.ipynb){ .md-button .md-button--primary} 
-    avec l'aide des documents [Document_ressource-Le_DMX_512](./DMX/Document_ressource-Le_DMX_512.pdf){target="_blank"}, [Documentation_iMove_5S_FR](./DMX/Documentation_iMove_5S_FR.pdf){target="_blank"} et [Notice_Imove](./DMX/Notice_Imove.pdf){target="_blank"} ; 
+    avec l'aide des documents [Document_ressource-Le_DMX_512](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/MATOS/DMX/Document_ressource-Le_DMX_512.pdf){target="_blank"}, [Documentation_iMove_5S_FR](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/MATOS/DMX/Lyre_iMove_5S/Documentation_iMove_5S_FR.pdf){target="_blank"} et [Notice_Imove](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/MATOS/DMX/Lyre_iMove_5S/Notice_Imove.pdf){target="_blank"} ; 
     rendre vos travaux sur [Capytale n° b1fc-5411324](https://capytale2.ac-paris.fr/web/c/b1fc-5411324){target=_blank .md-button .md-button--primary }  ;
     
 === "TRAVAIL À FAIRE"
