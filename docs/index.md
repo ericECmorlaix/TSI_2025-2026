@@ -410,20 +410,7 @@
 
     - ==**Rendre** vos travaux concernant les Moteurs à Courant Continu et la Lyre Imove 5S pour le 24/02.==
 
-***
-## Le 24/01
 
-=== "CONTENU DE SÉANCE" 
-
-    - **Faire** le [TP-DMX512-Lyre_iMove_5S](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2025-2026/CR/TP-DMX512-Lyre_iMove_5S.ipynb){target="_blank"} 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI_2025-2026/CR/TP-DMX512-Lyre_iMove_5S.ipynb){ .md-button .md-button--primary} 
-    avec l'aide des documents [Document_ressource-Le_DMX_512](./DMX/Document_ressource-Le_DMX_512.pdf){target="_blank"}, [Documentation_iMove_5S_FR](./DMX/Documentation_iMove_5S_FR.pdf){target="_blank"} et [Notice_Imove](./DMX/Notice_Imove.pdf){target="_blank"} ; 
-    rendre vos travaux sur [Capytale n° b1fc-5411324](https://capytale2.ac-paris.fr/web/c/b1fc-5411324){target=_blank .md-button .md-button--primary }  ;
-
-    
-=== "TRAVAIL À FAIRE"
-
-    - **Poursuivre** l'étude des parties A, B, C, D et E du sujet [Lyre Imove 5S](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/MATOS/DMX/Lyre_iMove_5S/LyreImove5S-DQ.pdf){target="_blank"} en vous appuyant sur les documents [techniques](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/MATOS/DMX/Lyre_iMove_5S/LyreImove5S-DT.pdf){target="_blank"} et [réponses](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/MATOS/DMX/Lyre_iMove_5S/LyreImove5S-DR.pdf){target="_blank"} ;
 
 ***
 ## Le 23/01
@@ -480,6 +467,23 @@
 - **Répondre** aux questions 1 à 10 du sujet [Efoil](./SU/Efoil_Sujet-2022.pdf) ;
 
 -->
+***
+## Du 05/02
+
+=== "CONTENU DE SÉANCE" 
+
+    - **Faire** le [TP-DMX512-Lyre_iMove_5S](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2025-2026/CR/TP-DMX512-Lyre_iMove_5S.ipynb){target="_blank"} 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI_2025-2026/CR/TP-DMX512-Lyre_iMove_5S.ipynb){ .md-button .md-button--primary} 
+    avec l'aide des documents [Document_ressource-Le_DMX_512](./DMX/Document_ressource-Le_DMX_512.pdf){target="_blank"}, [Documentation_iMove_5S_FR](./DMX/Documentation_iMove_5S_FR.pdf){target="_blank"} et [Notice_Imove](./DMX/Notice_Imove.pdf){target="_blank"} ; 
+    rendre vos travaux sur [Capytale n° b1fc-5411324](https://capytale2.ac-paris.fr/web/c/b1fc-5411324){target=_blank .md-button .md-button--primary }  ;
+    
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** les exercices sur les [réseaux informatiques avec le protocole de communication TCP/IP](./CR/FC_Reseaux_TCP-IP.pdf){target=_blank} et l'application au [Tri Postal](./CR/TriPostal.pdf){target=_blank} ;
+    
+    - **Faire** l'étude des parties A, B, C, D et E du sujet [Lyre Imove 5S](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/MATOS/DMX/Lyre_iMove_5S/LyreImove5S-DQ.pdf){target="_blank"} en vous appuyant sur les documents [techniques](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/MATOS/DMX/Lyre_iMove_5S/LyreImove5S-DT.pdf){target="_blank"} et [réponses](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/MATOS/DMX/Lyre_iMove_5S/LyreImove5S-DR.pdf){target="_blank"} ;
+
+***
 ## Du 29/01
 
 === "CONTENU DE SÉANCE" 
