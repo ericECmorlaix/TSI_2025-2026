@@ -483,6 +483,8 @@
     
     - **Faire** l'étude des parties A, B, C, D et E du sujet [Lyre Imove 5S](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/MATOS/DMX/Lyre_iMove_5S/LyreImove5S-DQ.pdf){target="_blank"} en vous appuyant sur les documents [techniques](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/MATOS/DMX/Lyre_iMove_5S/LyreImove5S-DT.pdf){target="_blank"} et [réponses](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/MATOS/DMX/Lyre_iMove_5S/LyreImove5S-DR.pdf){target="_blank"} ;
 
+    - **Se préparer** pour une évaluation de communication de données en répondant au question de la partie 3 du sujet [Reachy](./SU/Reachy_1.pdf){target=_blank} ;
+
 ***
 ## Du 29/01
 
