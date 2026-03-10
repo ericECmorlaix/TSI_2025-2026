@@ -468,6 +468,33 @@
 
 -->
 ***
+## Du 10/03
+
+=== "CONTENU DE SÉANCE" 
+    
+    - Régulation et asservivement :
+        - **lire** [Introduction_notions](./RA/Introduction_notions.pdf){target="_blank"} ;
+        - parallèlement, **lire** le [Cours](./RA/Cours.pdf){target="_blank"} et **comprendre** les [Exemples](./RA/Exemples.pdf){target="_blank"} ;
+        - **faire** les [Exercices 1 et 2](./RA/Exercices.pdf){target="_blank"} ;
+    
+    - Faire [le TP de Régulation Thermique](./RA/TP_thermique/RegulationThermique-TP.pdf){target="_blank"} à l'aide des documents et fichiers `.psimsch`:
+        - [Document ressources](./RA/TP_thermique/RegulationThermique-DR.pdf){target="_blank"} ;
+        - [régulation de température T.O.R](./RA/TP_thermique/regulation_de_temperature_TOR.psimsch) ;
+        - [régulation de température proportionnelle intégrale](./RA/TP_thermique/regulation_de_temperature_proportionnelle_integrale.psimsch) ;
+
+     - **faire** l'[Exercice 3 du ROBOVOLC](./RA/Exercice_3-ROBOVOLC.pdf){target="_blank"} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Rendre** les exercices des Moteurs à Courant Continu et des [Codeurs de position](./CI/Correction_Codeur){target=_blank} ;
+    
+    - **regarder** les vidéos :
+
+      <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uqaMfvSmiI8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+      <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qQxnm6jAkNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+***
 ## Du 05/02
 
 === "CONTENU DE SÉANCE" 
