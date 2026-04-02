@@ -337,7 +337,7 @@
 
       <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qQxnm6jAkNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
-    - **Se préparer** pour une évaluation sur la régulation et les asservissements en répondant aux questions :
+    - **Se préparer** pour l'évaluation du 09/04 portant sur la régulation et les asservissements en répondant aux questions :
         - 7 et 8 du sujet [X-track](./SU/X-track.pdf){target="_blank"} ;
         - 11, 12 et 13 du sujet [Efoil](./SU/Efoil.pdf){target="_blank"} ;
         - 1.1 à 1.5 du sujet [Reachy](./SU/Reachy_1.pdf){target=_blank} ;
