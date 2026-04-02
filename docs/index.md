@@ -223,39 +223,13 @@
 
     - Faire les sujets du concours Geipi Polytech [2023](./SE/geipi-polytech_2023.pdf){target="_blank"}, [2022](./SE/geipi-polytech_2022.pdf){target="_blank"}, [2021](./SE/geipi-polytech_2021.pdf){target="_blank"} ;
 
-=== "TRAVAIL À FAIRE"
 
-    - **Finir** le sujet [ROBOT BARMAN](./SE/Robot_Barman-2022.pdf){target="_blank"} ;
-
-***
-## Le 20/02
-
-=== "CONTENU DE SÉANCE" 
-
-    - Correction [Bac Blanc Ecodark](./SE/23-24_SI_BB1_ecodark.pdf){target="_blank"} ;
 
     
  et [ROBOT BARMAN](./SE/Robot_Barman-2022.pdf){target="_blank"} ;
 
-***
-## Le 23/01
-
-=== "CONTENU DE SÉANCE"
-
-    - Correction des évaluations d'étude du comportement dynamique du [MELODY](./SE/MELODY-Dynamique.pdf){target="_blank"} et du [X-track](./SE/X-track_Dynamique.pdf){target="_blank"} (cf [X-track_DR-DT](./SE/X-track_DR-DT.pdf){target="_blank"}) ;
-
-    - [Exercices complémentaires de dynamique en translation](./AM/dynamique_en_translation_exercice.pdf); 
-   
-    - **Finir** le [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) en préparant un document numérique de synthèse visible dans votre classeur sur GitHub ;
-
-***
-
-## Le 21/11 (2h)
-
-- Evaluation d'étude du comportement statique avec frottement : Robots MELODY et HOBOT
 
 
-   puis vérifier vos réponses avec [cette proposition de correction](./SU/MELODY-corrige.pdf){target="_blank"} ;
 
 
 ***
@@ -279,9 +253,7 @@
     
 === "TRAVAIL À FAIRE"
 
-    - **Mettre à jour** progressivement vos problématiques, recherches et réalisations de préparation au Grand Oral sur [Capytale n° 3263-6425743](https://capytale2.ac-paris.fr/web/c/3263-6425743){target=_blank .md-button .md-button--primary} ;
 
-    - **S'entrainer** pour l'[épreuve écrite](https://toutmonexam.fr/annee.php){target=_blank}...
 
 
 ***
@@ -304,11 +276,7 @@
 
     - Evaluation sur la régulation et les asservissements ;
     
-=== "TRAVAIL À FAIRE"
 
-    - **Mettre à jour** progressivement vos problématiques, recherches et réalisations de préparation au Grand Oral sur [Capytale n° 3263-6425743](https://capytale2.ac-paris.fr/web/c/3263-6425743){target=_blank .md-button .md-button--primary} ;
-    
-    - **S'entrainer** pour l'[épreuve écrite](https://toutmonexam.fr/annee.php){target=_blank}...
 ***
 ## Le 30/04
 
@@ -316,155 +284,30 @@
 
     - **Prendre en main** le système [CREA Slider](https://capytale2.ac-paris.fr/web/c/e63c-6467265){target=_blank} ;
     
-=== "TRAVAIL À FAIRE"
-
-    - **Mettre à jour** progressivement vos problématiques, recherches et réalisations de préparation au Grand Oral sur [Capytale n° 3263-6425743](https://capytale2.ac-paris.fr/web/c/3263-6425743){target=_blank .md-button .md-button--primary} ;
-    
-    - **Se préparer** pour une évaluation sur la régulation et les asservissements ;
-
-    - **S'entrainer** pour l'[épreuve écrite](https://toutmonexam.fr/annee.php){target=_blank}...
-
-***
-## Du 04/04
-
-=== "CONTENU DE SÉANCE" 
-    
-    - **Finir** [le TP de Régulation Thermique](./RA/TP_thermique/RegulationThermique-TP.pdf){target="_blank"} à l'aide des documents et fichiers `.psimsch`:
-        - [Document ressources](./RA/TP_thermique/RegulationThermique-DR.pdf){target="_blank"} ;
-        - [régulation de température T.O.R](./RA/TP_thermique/regulation_de_temperature_TOR.psimsch) ;
-        - [régulation de température proportionnelle intégrale](./RA/TP_thermique/regulation_de_temperature_proportionnelle_integrale.psimsch) ;
-
-    - **Finir** l'[Exercice 3 du ROBOVOLC](./RA/Exercice_3-ROBOVOLC.pdf){target="_blank"} ;
-    - **Faire** les questions 7 et 8 du sujet [Xtrack](./SU/Camera_Mobile.pdf){target="_blank"} ;
-    - **Faire** les questions non traitées du sujet [Efoil](./SU/Efoil_Sujet-2022.pdf) en particulier les questions 11, 12 et 13 ;
-    - **Faire** les questions non traitées du sujet [MELODY](./SU/MELODY.pdf){target="_blank"} en particulier Q1.7 à Q1.9 et Q1.21, Q1.22 ;
-
-=== "TRAVAIL À FAIRE"
-
-    - **regarder** les vidéos :
-
-      <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uqaMfvSmiI8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-      <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qQxnm6jAkNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-    - **S'entrainer** pour l'[épreuve écrite](https://toutmonexam.fr/annee.php){target=_blank}...
-
-***
-## Du 18/03
-
-=== "CONTENU DE SÉANCE" 
-    
-    - Régulation et asservivement :
-        - **lire** [Introduction_notions](./RA/Introduction_notions.pdf){target="_blank"} ;
-        - parallèlement, **lire** le [Cours](./RA/Cours.pdf){target="_blank"} et **comprendre** les [Exemples](./RA/Exemples.pdf){target="_blank"} ;
-        - **faire** les [Exercices 1 et 2](./RA/Exercices.pdf){target="_blank"} ;
-    
-    - Faire [le TP de Régulation Thermique](./RA/TP_thermique/RegulationThermique-TP.pdf){target="_blank"} à l'aide des documents et fichiers `.psimsch`:
-        - [Document ressources](./RA/TP_thermique/RegulationThermique-DR.pdf){target="_blank"} ;
-        - [régulation de température T.O.R](./RA/TP_thermique/regulation_de_temperature_TOR.psimsch) ;
-        - [régulation de température proportionnelle intégrale](./RA/TP_thermique/regulation_de_temperature_proportionnelle_integrale.psimsch) ;
-
-     - **faire** l'[Exercice 3 du ROBOVOLC](./RA/Exercice_3-ROBOVOLC.pdf){target="_blank"} ;
-
-=== "TRAVAIL À FAIRE"
-
-    - **Rendre** les exercices des Moteurs à Courant Continu et des [Codeurs de position](./CI/Correction_Codeur){target=_blank} ;
-    
-    - **regarder** les vidéos :
-
-      <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uqaMfvSmiI8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-      <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qQxnm6jAkNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-***
-## Le 12/03
-
-=== "CONTENU DE SÉANCE" 
 
 
     
 
-=== "TRAVAIL À FAIRE"
-
-    - **Finir** les exercices des Moteurs à Courant Continu et des [Codeurs de position](./CI/Correction_Codeur){target=_blank} ;
-    - **Rendre** vos travaux concernant la Lyre Imove 5S, les Moteurs à Courant Continu et les Codeurs de position==
-
-
-***
-## Le 27/02
-
-=== "CONTENU DE SÉANCE" 
-
-    - Correction Bac Blanc, Exercices des Moteurs à Courant Continu et des [Codeurs de position](./CI/Correction_Codeur){target=_blank} ;
-
-=== "TRAVAIL À FAIRE"
-
-    - ==**Rendre** vos travaux concernant la Lyre Imove 5S, les Moteurs à Courant Continu et les Codeurs de position==
-
-
-
-
-=== "TRAVAIL À FAIRE"
-
-    - **Finir** l'étude des parties A, B, C, D et E du sujet [Lyre Imove 5S](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/MATOS/DMX/Lyre_iMove_5S/LyreImove5S-DQ.pdf){target="_blank"} en vous appuyant sur les documents [techniques](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/MATOS/DMX/Lyre_iMove_5S/LyreImove5S-DT.pdf){target="_blank"} et [réponses](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/MATOS/DMX/Lyre_iMove_5S/LyreImove5S-DR.pdf){target="_blank"} ;
-
-    - ==**Rendre** vos travaux concernant les Moteurs à Courant Continu et la Lyre Imove 5S pour le 24/02.==
 
 
 
 ***
-## Le 23/01
 
-=== "CONTENU DE SÉANCE" 
 
-    - **Etudier** les partie A, B, C et D du sujet [Lyre Imove 5S](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/MATOS/DMX/Lyre_iMove_5S/LyreImove5S.pdf){target="_blank"} en vous appuyant sur les documents [techniques](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/MATOS/DMX/Lyre_iMove_5S/LyreImove5S-DT.pdf){target="_blank"} et [réponses](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/MATOS/DMX/Lyre_iMove_5S/LyreImove5S-DR.pdf){target="_blank"} ;
-    
-    - **Faire** le [TP-DMX512-Lyre_iMove_5S](./CR/TP-DMX512-Lyre_iMove_5S.ipynb){target="_blank"} avec l'aide des documents [Document_ressource-Le_DMX_512](./DMX/Document_ressource-Le_DMX_512.pdf){target="_blank"}, [Documentation_iMove_5S_FR](./DMX/Documentation_iMove_5S_FR.pdf){target="_blank"} et [Notice_Imove](./DMX/Notice_Imove.pdf){target="_blank"} ;
 
-    
-=== "TRAVAIL À FAIRE"
+  
 
-    - **Poursuivre** l'étude de la [Lyre Imove 5S](./SE/LyreImove5S.pdf){target="_blank"} ;
-
-***
-
-## Le 16/01
-
-=== "CONTENU DE SÉANCE"
-    
+  
     
     - **S'entrainer** pour le Bac Blanc avec le sujet du [RTT](./SU/RobotSurveillanceTousTerrains.pdf)
     
 
-
-***
-
-## Le 07/01
-
-=== "CONTENU DE SÉANCE"
-    
-    - Etudes du comportement dynamique du X-Track : [Sujet](./SU/X-track_Dynamique.pdf){target=_blank}, [DT et DR](./SU/X-track_DR-DT.pdf){target=_blank};
-    - Etudes du comportement dynamique du MELODY : [Sujet](./SU/MELODY-Dynamique.pdf){target=_blank} ;
-
-=== "TRAVAIL À FAIRE"
-    
-    - **Finir** les études du comportement dynamique du [X-Track, Q19](./SU/X-track_Dynamique.pdf){target=_blank} et du [MELODY](./SU/MELODY-Dynamique.pdf){target=_blank} ;
-    - **Faire** les études du comportement statique du [HOBOT](./SU/hobot-statique.pdf) et du [MELODY](./SU/MELODY-Statique.pdf) ;
-
-***
-
+    - **Faire** les études du comportement statique du [HOBOT](./SU/hobot-statique.pdf) 
     
 
     
 
 
-- **Finir** la programmation des objets connectés avec la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} ;
- 
-
-
-- **Répondre** aux questions 14 à 19 du sujet [Camper Trolley](./SU/Camper_Sujet-2012.pdf) ;
-
-- **Répondre** aux questions 1 à 10 du sujet [Efoil](./SU/Efoil_Sujet-2022.pdf) ;
 
 -->
 ***
@@ -499,6 +342,16 @@
         - 11, 12 et 13 du sujet [Efoil](./SU/Efoil.pdf){target="_blank"} ;
         - 1.1 à 1.5 du sujet [Reachy](./SU/Reachy_1.pdf){target=_blank} ;
         - 1.7 à 1.11 du sujet [Hydrolienne](./SU/Hydrolienne.pdf){target=_blank} ;
+    
+    - **Finir** la programmation des objets connectés avec la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} : [Parcours_3.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_3.ipynb){target=_blank} et **rendre** sur [Capytale n° 093a-4361021](https://capytale2.ac-paris.fr/web/c/093a-4361021){target=_blank .md-button .md-button--primary } [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_3.ipynb){ .md-button .md-button--primary} ;
+
+    - **Mettre à jour** progressivement vos problématiques, recherches et réalisations de préparation au Grand Oral sur [Capytale n° 3263-6425743](https://capytale2.ac-paris.fr/web/c/3263-6425743){target=_blank .md-button .md-button--primary} ;
+
+     - **S'entrainer** pour le concours [Geipi Polytech](https://www.geipi-polytech.org/annales-du-concours-geipi-polytech/){target=_blank}...
+    
+    - **S'entrainer** pour l'[épreuve écrite](https://toutmonexam.fr/annee.php){target=_blank}...
+
+    
 
 ***
 ## Du 05/02
