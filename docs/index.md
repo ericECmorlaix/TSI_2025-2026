@@ -109,15 +109,6 @@
         - ==**notez, transmettez-moi et conservez** votre code personnel pour chaque parcours pour y retourner d'une fois sur l'autre== ;
         - **conserver** progressivement une trace de vos scripts...
 
-***
-## Les 11 et 12/01
-=== "CONTENU DE SÉANCE" 
-    - Régulation et asservivement :
-        - **lire** [Introduction_notions](./RA/Introduction_notions.pdf){target="_blank"} ;
-        - parallèlement, **lire** le [Cours](./RA/Cours.pdf){target="_blank"} et **comprendre** les [Exemples](./RA/Exemples.pdf){target="_blank"} ;
-        - faire les [Exercices](./RA/Exercices.pdf){target="_blank"} ;
-
-    - Application aux questions 7 et 8 du sujet [Xtrack](./SE/Camera_Mobile.pdf){target="_blank"} ;
 
 === "TRAVAIL À FAIRE"
 
@@ -128,56 +119,6 @@
       <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qQxnm6jAkNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     - **Faire** les questions non traitées du sujet [MELODY](./SE/MELODY.pdf){target="_blank"} en particulier Q1.7 à Q1.9 et Q1.22 puis vérifier vos réponses avec [cette proposition de correction](./SE/MELODY-corrige.pdf){target="_blank"} ;
-
-
-## Du 04 au 09/01
-
-=== "CONTENU DE SÉANCE"
-
-    - Réalisation dans Obsidian avec le module complémentaire [Spaced Repetition](https://www.stephenmwangi.com/obsidian-spaced-repetition/){target=_blank} de [flashcards partagées](https://codimd.apps.education.fr/RSFZVPvBThSooEjjxfdEjA){target=_blank} pour réviser...
-
-    - Faire [le TP de Régulation Thermique](./RA/TP_thermique/RegulationThermique-TP.pdf){target="_blank"} à l'aide des documents et fichiers `.psimsch`:
-        - [Document ressources](./RA/TP_thermique/RegulationThermique-DR.pdf){target="_blank"} ;
-        - [régulation de température T.O.R](./RA/TP_thermique/regulation_de_temperature_TOR.psimsch) ;
-        - [régulation de température proportionnelle intégrale](./RA/TP_thermique/regulation_de_temperature_proportionnelle_integrale.psimsch) ;    
-
-=== "TRAVAIL À FAIRE" 
-        
-    - Rendre les parties A et E, puis C du sujet [Lyre Imove 5S](./CI/DMX/LyreImove5S.pdf){target="_blank"} et les exercices concernant [Les capteurs et la chaîne d'acquisition](./CI/Acquisition_Capteurs-Cours-Exercices.pdf){target="_blank"} ressource [Capteur_US-HC-SR04.pdf](./CI/Capteur_US-HC-SR04.pdf){target="_blank"} ;
-
-***
-## Du 05 au .../12
-
-=== "CONTENU DE SÉANCE"
-
-    - Lire [la fiche de cours Réseaux et Communications](./CI/FC_Reseaux_communication.pdf){target="_blank"} ;
-    - Faire [le TP_Reseau_DMX](./CI/DMX/TP_Reseau_DMX.pdf){target="_blank"} à l'aide du matériel et des documents :
-        - [Document_ressource-Le_DMX_512](./CI/DMX/Document_ressource-Le_DMX_512.pdf){target="_blank"} ;
-        - [Notice_Imove](./CI/DMX/Notice_Imove.pdf){target="_blank"} ;
-        - [Documentation_iMove_5S_FR](./CI/DMX/Documentation_iMove_5S_FR.pdf){target="_blank"} ;
-    
-    - Lire le cours et faire les exercices concernant [Les capteurs et la chaîne d'acquisition](./CI/Acquisition_Capteurs-Cours-Exercices.pdf){target="_blank"} ressource [Capteur_US-HC-SR04.pdf](./CI/Capteur_US-HC-SR04.pdf){target="_blank"} ;
-
-=== "TRAVAIL À FAIRE" 
-    
-    - **Finir** le [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) -> ==Remmettre un compte rendu au format MarkDown par équipe== ;
-
-    - **Faire**, dans cet ordre, les parties A et E, puis C du sujet [Lyre Imove 5S](./CI/DMX/LyreImove5S.pdf){target="_blank"} ​;
-
-
-
-## Le 25/11
-
-=== "CONTENU DE SÉANCE"
-
-    - Colle orale par équipe sur les questions 14 à 19 du sujet original du [robot Camper Trolley](./SE/Camper_Sujet-2012.pdf) 
- 
-***
-## Les 23 et 24/11
-
-=== "CONTENU DE SÉANCE"
-
-    - Correction évaluation de dynamique en translation et en rotation ;  
 
 
 
@@ -191,31 +132,6 @@
     
 
 
-
-
-***
-## Le 9/04
-
-=== "CONTENU DE SÉANCE" 
-
-    - **Faire** le [TP_Reseau_DMX](./DMX/TP_Reseau_DMX.pdf){target="_blank"} avec l'aide des documents [Document_ressource-Le_DMX_512](./DMX/Document_ressource-Le_DMX_512.pdf){target="_blank"}, [Documentation_iMove_5S_FR](./DMX/Documentation_iMove_5S_FR.pdf){target="_blank"} et [Notice_Imove](./DMX/Notice_Imove.pdf){target="_blank"} ;
-
-    
-=== "TRAVAIL À FAIRE"
-
-    - **Finir** le sujet de la [Lyre Imove 5S](./SE/LyreImove5S.pdf){target="_blank"} ;
-
-***
-## Le 29/03
-
-=== "CONTENU DE SÉANCE" 
-
-    - Faire le sujet de la [Lyre Imove 5S](./SE/LyreImove5S.pdf){target="_blank"} ;
-
-=== "TRAVAIL À FAIRE"
-
-    - **Finir** le sujet [ROBOT BARMAN](./SE/Robot_Barman-2022.pdf){target="_blank"} ;
-
 ***
 ## Le 19/03
 
@@ -223,10 +139,6 @@
 
     - Faire les sujets du concours Geipi Polytech [2023](./SE/geipi-polytech_2023.pdf){target="_blank"}, [2022](./SE/geipi-polytech_2022.pdf){target="_blank"}, [2021](./SE/geipi-polytech_2021.pdf){target="_blank"} ;
 
-
-
-    
- et [ROBOT BARMAN](./SE/Robot_Barman-2022.pdf){target="_blank"} ;
 
 
 
@@ -239,22 +151,9 @@
 
     - Révisions de l'épreuve écrite autours des sujets présentés par [Ambre](./SU/24-SCIPCJ1ME3.pdf), [Louis](./SU/23-SCIPCJ1NC1.pdf), [Louise](./SU/24-SCIPCJ2G11.pdf), [Noah](./SU/24-SCIPCJ2PO1.pdf), [Autre](./SU/24-SCIPCJ2ME1.pdf) ;
 
-=== "TRAVAIL À FAIRE"
-
-    - **Mettre à jour** progressivement vos problématiques, recherches et réalisations de préparation au Grand Oral sur [Capytale n° 3263-6425743](https://capytale2.ac-paris.fr/web/c/3263-6425743){target=_blank .md-button .md-button--primary} ;
-
-    - **S'entrainer** encore pour l'[épreuve écrite](https://toutmonexam.fr/annee.php){target=_blank}...
-***
-## Les 22 et 23/05
-
-=== "CONTENU DE SÉANCE" 
 
     - Etude du [distributeur de savon NoTouch](https://capytale2.ac-paris.fr/web/c/f2c7-6729085){target=_blank} ;
     
-=== "TRAVAIL À FAIRE"
-
-
-
 
 ***
 ## Les 06 et 07/05
@@ -263,53 +162,34 @@
 
     - TP sur le système [CREA Slider](https://capytale2.ac-paris.fr/web/c/2647-6518347){target=_blank} ;
     
-=== "TRAVAIL À FAIRE"
-
-    - **Mettre à jour** progressivement vos problématiques, recherches et réalisations de préparation au Grand Oral sur [Capytale n° 3263-6425743](https://capytale2.ac-paris.fr/web/c/3263-6425743){target=_blank .md-button .md-button--primary} ;
-
-    - **S'entrainer** pour l'[épreuve écrite](https://toutmonexam.fr/annee.php){target=_blank}...
-
 ***
-## Le 02/05
-
-=== "CONTENU DE SÉANCE" 
-
-    - Evaluation sur la régulation et les asservissements ;
-    
-
-***
-## Le 30/04
-
-=== "CONTENU DE SÉANCE" 
-
-    - **Prendre en main** le système [CREA Slider](https://capytale2.ac-paris.fr/web/c/e63c-6467265){target=_blank} ;
-    
-
-
-    
-
-
-
-
-***
-
-
-
-  
-
   
     
     - **S'entrainer** pour le Bac Blanc avec le sujet du [RTT](./SU/RobotSurveillanceTousTerrains.pdf)
     
 
     - **Faire** les études du comportement statique du [HOBOT](./SU/hobot-statique.pdf) 
-    
-
-    
-
-
 
 -->
+***
+## Le 28/04
+
+=== "CONTENU DE SÉANCE" 
+    
+    - **Prendre en main** le système [CREA Slider](https://capytale2.ac-paris.fr/web/c/e63c-6467265){target=_blank} ;
+
+    - **Faire** le sujet [ROBOT BARMAN](./SU/Robot_Barman-2022.pdf){target="_blank"} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** la programmation des objets connectés avec la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} : [Parcours_3.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_3.ipynb){target=_blank} et **rendre** sur [Capytale n° 093a-4361021](https://capytale2.ac-paris.fr/web/c/093a-4361021){target=_blank .md-button .md-button--primary } [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_3.ipynb){ .md-button .md-button--primary} ;
+
+    - **Mettre à jour** progressivement vos problématiques, recherches et réalisations de préparation au Grand Oral sur [Capytale n° 3263-6425743](https://capytale2.ac-paris.fr/web/c/3263-6425743){target=_blank .md-button .md-button--primary} ;
+
+     - Faire les sujets du concours Geipi Polytech [2023](./SU/geipi-polytech_2023.pdf){target="_blank"}, [2024](./SU/geipi-polytech_2024.pdf){target="_blank"}, [2025](./SU/geipi-polytech_2025.pdf){target="_blank"}, [2021](./SU/geipi-polytech_2021.pdf){target="_blank"}, [2022](./SU/geipi-polytech_2022.pdf){target="_blank"} ; le concours [Geipi Polytech](https://www.geipi-polytech.org/annales-du-concours-geipi-polytech/){target=_blank}...
+    
+    - **S'entrainer** pour l'[épreuve écrite](https://toutmonexam.fr/annee.php){target=_blank}...
+
 ***
 ## Du 10/03
 
