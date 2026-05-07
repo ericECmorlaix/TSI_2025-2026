@@ -172,6 +172,21 @@
 
 -->
 ***
+## Le 07/05
+
+=== "CONTENU DE SÉANCE" 
+    
+    - TP sur le système [CREA Slider](https://capytale2.ac-paris.fr/web/c/2647-6518347){target=_blank} ;
+
+    - **Mettre à jour** progressivement vos problématiques, recherches et réalisations de préparation au Grand Oral sur [Capytale n° 3263-6425743](https://capytale2.ac-paris.fr/web/c/3263-6425743){target=_blank .md-button .md-button--primary} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Mettre à jour** progressivement vos problématiques, recherches et réalisations de préparation au Grand Oral sur [Capytale n° 3263-6425743](https://capytale2.ac-paris.fr/web/c/3263-6425743){target=_blank .md-button .md-button--primary} ;
+
+    - **S'entrainer** pour l'[épreuve écrite](https://toutmonexam.fr/annee.php){target=_blank}...
+
+***
 ## Le 28/04
 
 === "CONTENU DE SÉANCE" 
