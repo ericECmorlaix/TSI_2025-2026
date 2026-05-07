@@ -176,6 +176,8 @@
 
 === "CONTENU DE SÉANCE" 
     
+    - Bac Blanc n°2 : [MELODY](./SU/MELODY.pdf){target=_blank} ;
+    
     - TP sur le système [CREA Slider](https://capytale2.ac-paris.fr/web/c/2647-6518347){target=_blank} ;
 
     - **Mettre à jour** progressivement vos problématiques, recherches et réalisations de préparation au Grand Oral sur [Capytale n° 3263-6425743](https://capytale2.ac-paris.fr/web/c/3263-6425743){target=_blank .md-button .md-button--primary} ;
